@@ -1,4 +1,4 @@
-const proba = (a, ,b , c) =>{
+const proba = (a, b , c) =>{
    if (a >b) {
       return 1;
    } else { if(a < b){
@@ -7,3 +7,5 @@ const proba = (a, ,b , c) =>{
      return c; 
    }
 } 
+
+export default proba;
